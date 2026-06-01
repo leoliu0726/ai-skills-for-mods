@@ -1,4 +1,4 @@
-name: 同步特定文件夹 (Sync specific folder)
+name: 同步superpower (Sync specific folder)
 
 on:
   schedule:
