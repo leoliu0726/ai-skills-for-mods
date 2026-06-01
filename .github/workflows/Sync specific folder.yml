@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # 每天自动执行
   workflow_dispatch: # 允许手动点击运行
 
+  # 👇 新增这一段：强制要求 GitHub Actions 使用 Node.js 24 运行，消除过期警告
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   sync_folder:
     runs-on: ubuntu-latest
