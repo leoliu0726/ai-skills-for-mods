@@ -1,12 +1,11 @@
 ---
 name: mods-sci-paper-review
-description: AI辅助SCI论文同行评审，严格6状态工作流；上传PDF极速解析，按需加载方法结论；输入最终定稿后AI全面客观审查并展示结果，用户确认后生成地道英文报告；适用于需要客观审查支持、学术规范报告撰写的场景
-dependency:
-  python:
-    - PyMuPDF==1.23.8
+description: Use when the user asks for AI-assisted SCI manuscript peer review, objective manuscript audit, reviewer-comment organization, PDF-based manuscript inspection, data or logic consistency checks, or English peer-review report drafting.
 ---
 
 # SCI Paper Peer Review System
+
+Python PDF inspection workflows may require `PyMuPDF==1.23.8`.
 
 ## 任务目标
 提供严格的SCI论文同行评审辅助工作流，确保审稿过程客观、规范、可追溯。

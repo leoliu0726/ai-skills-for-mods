@@ -1,0 +1,4 @@
+interface:
+  display_name: "mods-SCI Paper Review"
+  short_description: "Audit and review SCI manuscripts."
+  default_prompt: "Use $mods-sci-paper-review to inspect a manuscript, organize reviewer comments, or draft an objective SCI review report."
