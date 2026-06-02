@@ -1,5 +1,5 @@
 ---
-name: odti-advanced-scientific-grant-proposal-architect
+name: mods-project proposal
 description: Draft, refine, and structure rigorous scientific grant proposals, funding applications, project application forms, task books, research contracts, and academic project narratives. Use when the user asks to write or polish a grant proposal, foundation application, national or provincial project application, key R&D task book, horizontal research proposal, scientific project justification, research objectives, innovation points, feasibility analysis, annual plan, or expected outcomes.
 ---
 

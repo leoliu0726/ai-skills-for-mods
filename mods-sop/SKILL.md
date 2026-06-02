@@ -1,5 +1,5 @@
 ---
-name: sop-architect
+name: mods-sop
 description: Generate concise, high-precision SOPs for any technical or industrial process, including thin-film deposition, wet process, cleaning, assembly, inspection, testing, calibration, packaging, equipment operation, laboratory workflows, and production-line tasks. Use when the user asks to create, refine, audit, or standardize an SOP, recipe, run card, operating procedure, work instruction, checklist, or process workflow.
 ---
 

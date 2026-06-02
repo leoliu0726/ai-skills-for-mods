@@ -1,5 +1,5 @@
 ---
-name: odti-agile-rd-project-architect
+name: mods-project-breakdown
 description: Generate high-resolution, executable research and R&D project plans for experiments, device iteration, mechanism validation, process development, materials studies, characterization campaigns, and milestone-driven technical programs. Use when the user asks to plan, schedule, de-risk, or organize an R&D project, experiment series, weekly research plan, validation campaign, or development roadmap.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: sci-paper-review
+name: mods-sci-paper-review
 description: AI辅助SCI论文同行评审，严格6状态工作流；上传PDF极速解析，按需加载方法结论；输入最终定稿后AI全面客观审查并展示结果，用户确认后生成地道英文报告；适用于需要客观审查支持、学术规范报告撰写的场景
 dependency:
   python:

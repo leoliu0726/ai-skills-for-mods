@@ -1,5 +1,5 @@
 ---
-name: technical-route-breakdown
+name: mods-technical-breakdown
 description: Generate concrete technical route breakdowns for semiconductor, optoelectronic, photovoltaic, thin-film, ALD, thermal evaporation, quantum-dot, and wafer-scale process challenges. Use when a user asks for a technical roadmap, process route, equipment selection, industrialization plan, failure analysis route, or implementation plan that should include clarifying questions, key questions, material requirements, equipment comparison, past experience, and a concrete scheme.
 ---
 
